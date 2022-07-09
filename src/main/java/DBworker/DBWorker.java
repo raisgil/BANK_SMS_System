@@ -1,4 +1,4 @@
-package DebtClients;
+package DBworker;
 
 import java.sql.*;
 
